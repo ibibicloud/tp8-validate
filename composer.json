@@ -1,0 +1,17 @@
+{
+    "name": "ibibicloud/tp8-validate",
+    "type": "library",
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=8.0",
+        "ibibicloud/tp8-container": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\": "src"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
