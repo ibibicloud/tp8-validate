@@ -1,9 +1,9 @@
-## thinkphp8-validate
+## tp8-validate
 基于 https://github.com/top-think/think-validate/tree/v3.0.5
 
 ### 安装
 ~~~
-composer require ibibicloud/thinkphp8-validate
+composer require ibibicloud/tp8-validate
 ~~~
 
 ### 文档
