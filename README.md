@@ -56,7 +56,7 @@ class User extends Validate
 }
 ~~~
 
-## 验证器调用代码如下：
+### 验证器调用代码如下：
 ~~~php
 $data = [
     'name'  => 'thinkphp',
